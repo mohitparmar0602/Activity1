@@ -1,0 +1,121 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body {
+    height: 100%;
+    width: 100%;
+}
+header{
+    height: 15%;
+    width: 100%;
+    background: green;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+   
+   
+}
+h1{
+    color: aliceblue;
+    align-items: center;
+
+}
+button{
+    margin-top: 17px;
+    width: 70px;
+    color: aliceblue;
+    background: green;
+    font-size: medium;
+    align-items: center;
+}
+.home{
+    margin-left: 70px;
+}
+.about{
+    margin-left: 18px;
+}
+.contact{
+    margin-left: 18px;
+}
+nav{
+    height: 70%;
+    width: 100%;
+    /* background: rgba(122, 122, 122, 0.361); */
+    background:rgba(154, 149, 149, 0.763);
+    display: flex;
+}
+.first{
+    height: 80%;
+    width: 33%;
+}
+.a{
+    /* background:rgba(154, 149, 149, 0.763); */
+    background: rgba(239, 234, 234, 0.361); 
+    height: 30%;
+    width: 95%;
+    margin-top: 50px;
+    margin-left: 30px;
+    
+    /* border: 2px solid black; */
+}
+.b{
+    background: rgba(239, 234, 234, 0.361); 
+    height: 30%;
+    width: 95%;
+    margin-top: 60px;
+    margin-left: 30px;
+    /* border: 2px solid black; */
+
+}
+.second{
+    background: rgba(239, 234, 234, 0.361); 
+    height: 25%;
+    width: 33%;
+    /* border: 2px solid black; */
+    margin-left: 500px;
+    margin-top: 50px;
+}
+h2{
+    color: green;
+    font: bolder;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+/* .css
+{
+    margin-left: 15px;
+    margin-top: 50px;
+} */
+p{
+    font:message-box;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+
+
+
+
+footer{
+    height: 15%;
+    width: 100%;
+    background: rgb(7, 7, 7);
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+h3{
+    color: aliceblue;
+    
+}
+a{
+    color: green;
+    font:bold;
+    font-size: large;
+    text-decoration: none;
+    margin-left: 15px;
+    margin-right: 10px;
+}
